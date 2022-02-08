@@ -68,7 +68,7 @@ const Contact = ({ data }) => {
                   type="text"
                   defaultValue=""
                   value={email}
-                  size="20"
+                  size="30"
                   id="contactEmail"
                   name="contactEmail"
                   onChange={(e) => setEmail(e.target.value)}
@@ -81,7 +81,7 @@ const Contact = ({ data }) => {
                   type="text"
                   defaultValue=""
                   value={subject}
-                  size="20"
+                  size="30"
                   id="contactSubject"
                   name="contactSubject"
                   onChange={(e) => setSubject(e.target.value)}

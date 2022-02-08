@@ -1,45 +1,30 @@
 {
   "main": {
-    "name": "Sonny Sangha",
+    "name": "Hariharan NKS",
     "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "description": "I am Currently Mastering Full Stack Developer",
     "image": "profilepic.jpg",
     "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "contactmessage": "Get in touch with me!",
+    "email": "nkshariharan17@gmail.com",
+    "phone": "+91 7200068368 ",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "No.330, 15th Cross Street, Prakash Nagar, Thiruninravur, ",
+      "city": "Chennai, ",
+      "state": "Tamilnadu",
+      "zip": "INDIA - 620 024"
     },
     "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "resumedownload": "https://drive.google.com/file/d/1Rcw1gSKrAfA9qv6md9O8uaTwlatxmV9a/view?usp=sharing",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/hariharan-nks",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/harinks",
         "className": "fa fa-github"
       }
     ]
@@ -48,9 +33,9 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
+        "school": "Chennai Institute of Technology, Chennai",
+        "degree": "Bachelor's Degree, Electronics and Communication Engineering",
+        "graduated": "July 2021",
         "description": "Graduated with First Class Honours"
       }
     ],
@@ -64,11 +49,11 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "React JS",
         "level": "100%"
       },
       {
-        "name": "Python",
+        "name": "Node JS",
         "level": "85%"
       },
       {

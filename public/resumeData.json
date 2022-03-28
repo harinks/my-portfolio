@@ -74,14 +74,14 @@
         "title": "Ecommerce Store (MERN)",
         "category": "Ecommerce Store - frontend using MERN + Redux project and with PayPal payment integration + Admin Dashboard.",
         "image": "ecommerce.jpg",
-        "url": "https://incomparable-sorbet-5e4924.netlify.app",
+        "url": "https://ecommerce-store-frontend.netlify.app",
         "github": "https://github.com/harinks/Ecommerce-frontend.git"
       },
       {
         "title": "BLOG Website (MERN)",
         "category": "Blog Application using MERN stack with Redux, RTK Query for API calls from backend with basic crud and login functions.",
         "image": "blog.png",
-        "url": "https://thunderous-kangaroo-2a94b1.netlify.app",
+        "url": "https://blog-website-mern.netlify.app",
         "github": "https://github.com/harinks/blog-frontend.git"
       },
       {

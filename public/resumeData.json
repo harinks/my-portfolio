@@ -85,11 +85,11 @@
         "github": "https://github.com/harinks/blog-frontend.git"
       },
       {
-        "title": "Ecommerce Store (MERN)",
-        "category": "Ecommerce Store - frontend using MERN + Redux project and with PayPal payment integration + Admin Dashboard.",
-        "image": "ecommerce.jpg",
-        "url": "https://incomparable-sorbet-5e4924.netlify.app",
-        "github": ""
+        "title": "AWS Polymer Search (MERN)",
+        "category": "Clone project using useContext and chartjs",
+        "image": "polymer search.png",
+        "url": "https://aws-polymer-search-frontend.netlify.app/search",
+        "github": "https://github.com/harinks/aws-polymer-search-frontend.git"
       }
     ]
   }

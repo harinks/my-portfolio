@@ -7,16 +7,17 @@ const Portfolio = ({ data }) => {
       return (
         <div key={projects.title} className="columns portfolio-item">
           <div className="item-wrap">
-            <a href={projects.url} title={projects.title}>
+            <a href={projects.url} title={projects.title} target="_blank" rel="noreferrer" >
               <img alt={projects.title} src={projectImage} />
               <div className="overlay">
                 <div className="portfolio-item-meta">
-                  <h5>{projects.title}</h5>
-                  <p>{projects.category}</p>
+                  <h4 style={{ color:"#11ABB0" }}>{projects.title}</h4>
+                  <p style={{ color:"white", fontSize:"15px" }}>{projects.category}</p>
                 </div>
               </div>
               <div className="link-icon">
-                <i className="fa fa-link"></i>
+              <a href={projects.url} title="demo" target="_blank" rel="noopener noreferrer"><i className="fa fa-link"></i></a>
+              <a href={projects.github} title="github" target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a>
               </div>
             </a>
           </div>

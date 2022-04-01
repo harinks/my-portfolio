@@ -90,6 +90,13 @@
         "image": "polymer search.png",
         "url": "https://aws-polymer-search-frontend.netlify.app/search",
         "github": "https://github.com/harinks/aws-polymer-search-frontend.git"
+      },
+      {
+        "title": "ZenTask (MERN)",
+        "category": "Zen Task - Mern Stack project for student and mentor task management system using CRUD, login function, formik, and react-router.",
+        "image": "zentask.png",
+        "url": "https://zentask-frontend.netlify.app",
+        "github": "https://github.com/harinks/ZenTask-frontend.git"
       }
     ]
   }

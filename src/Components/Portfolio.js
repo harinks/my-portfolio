@@ -11,7 +11,7 @@ const Portfolio = ({ data }) => {
               <img alt={projects.title} src={projectImage} />
               <div className="overlay">
                 <div className="portfolio-item-meta">
-                  <h4 style={{ color:"#11ABB0" }}>{projects.title}</h4>
+                  <h4 style={{ color:"#F06000" }}>{projects.title}</h4>
                   <p style={{ color:"white", fontSize:"15px" }}>{projects.category}</p>
                 </div>
               </div>
